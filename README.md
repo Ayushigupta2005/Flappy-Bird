@@ -73,9 +73,9 @@ FlappyBird/
 
 🖼️ Screenshots (SS)
 <p align = "center">
-![image](https://github.com/user-attachments/assets/95b8bf45-0ee6-4481-bbfa-c9ec624175f4)
-![image](https://github.com/user-attachments/assets/06710c80-e23a-4fe8-8161-952681df5b49)
-![image](https://github.com/user-attachments/assets/4637cee4-91ab-4d7d-95d3-6339ff438248)
+<img src="https://github.com/user-attachments/assets/95b8bf45-0ee6-4481-bbfa-c9ec624175f4" alt="click to start" width="30%">
+<img src="https://github.com/user-attachments/assets/06710c80-e23a-4fe8-8161-952681df5b49" alt="Gameplay" width="30%">
+<img src="https://github.com/user-attachments/assets/4637cee4-91ab-4d7d-95d3-6339ff438248" alt="Game over" width="30%">
 </p>
 ---
 
